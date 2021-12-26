@@ -1,0 +1,17 @@
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+
+bin/**
+!bin/.gitkeep
+
+out/**
+!out/.gitkeep
+
+
+# Ignore all
+src/**
+# Unignore all dirs
+!src/**/
+# Unignore all with extensions
+!src/**/*.*

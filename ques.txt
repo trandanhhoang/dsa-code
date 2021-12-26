@@ -1,0 +1,37 @@
+OS
+Thread và Process giống và khác nhau thế nào?
+Thread Communication và Process Communication
+Lock, Semaphore
+Context Switch
+OS la gi ?
+https://www.javatpoint.com/operating-system-interview-questions
+
+MMT
+UDP và TCP khác nhau thế nào?
+TCP handshake
+Congestion control
+pb switch vs router
+IP, subnetmask, CIDR (net id/ subnet mask), private id adress
+NAT, OSI
+tracert
+DHCP
+ARP (Address Resolution Protocol )
+TCP/IP
+default gateway
+ICMP , Ping
+peer to peer, dns
+hub vs switch
+
+
+OOP: chuong trinh la tap hop cua? cac' doi' tuong.
+tinh bao dong: dong goi data, private public
+tinh truu tuong: dog bark, don't care cac hoat dong khac, che dau o muc; cao hon
+tinh ke thua: extend, con ke thua cha
+tinh da hinh: cung 1 message, cac doi tuong khac nhau co the phan hoi cac method khac nhau
+
+pbiet message vs method:
++message la cach thuc giao tiep giua~ cac doi tuong, Lassie bark
++method dog can park
+
+Interface: mo ta 1 doi tuong co 1 chuc nang cu. the? gi do'
+abstract class: tao nen 1 mau~ doi tuong.

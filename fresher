@@ -1,0 +1,52 @@
+Class diagram
+
+MMT
+
+Project
+
+3 REST
+String
+Case
+
++message (say) vs method la 1 kha? nang cua object
+animal animal1 = new dog
+animal animal1 = new cat
+
+animal1.say() -> message -> dog say(method)
+
+MMT(skill_txt)
+DB(SQL,NoSQL, Select, Order By, Count),
+OS(process(fork), thread, signal)
+
+  abstract class: Tank
+  method: die()
+
+  class TankFastReload extend Tank implement Reload
+  reload()
+
+  class TankSlowReload extend Tank implement Reload
+  reload()
+
+  class: Tank1 extend TankFastReload implement Attack
+  attack()
+
+---------------------
+
+  class: Tank2 extend TankSlowReload implement Attack
+  attack()
+
+  class: Tank3 extend TankSlowReload implement Attack
+  attack()
+
+  class: Tank4 extend TankSlowReload implement Attack
+  attack()
+
+  Interface: Attack
+  attack()
+
+  Interface: Reload
+  reload()
+
+
+
+

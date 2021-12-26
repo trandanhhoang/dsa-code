@@ -1,0 +1,16 @@
+Polymorphism: Animal cat = new Cat() -> call exactly method hello() of Cat
+Encapsulation: cover private attribute, just give user function to call them
+Inheritance: child has method of parent
+
+Abstraction : make sure have method, can't create a object from abstract class
+ex: abstract class animal -> can't "Animal dog = new Animal();"
+
+Interface : greater than Encapsulation(just in class), just call method of interface
+
+DSA, OOP
+
+OS: process,
+  thread
+
+MMT,DB
+
