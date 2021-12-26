@@ -15,3 +15,5 @@ src/**
 !src/**/
 # Unignore all with extensions
 !src/**/*.*
+
+rest/*
